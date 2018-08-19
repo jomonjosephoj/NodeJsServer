@@ -1,0 +1,20 @@
+{
+  "name": "jj-test-project",
+  "version": "1.0.0",
+  "description": "jj-test-project",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jomonjosephoj/NodeJsServer.git"
+  },
+  "author": "jj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jomonjosephoj/NodeJsServer/issues"
+  },
+  "homepage": "https://github.com/jomonjosephoj/NodeJsServer#readme"
+}
